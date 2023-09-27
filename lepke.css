@@ -1,0 +1,58 @@
+body{
+    background-color: darkslategray;
+    font-weight: bolder;
+
+}
+
+h1{
+    color: white;
+    text-align: center;
+}
+
+
+
+a:active{
+    color: black;
+}
+
+a:visited{
+    color: black;
+}
+
+
+#tablazat{
+    background-color: darkslategray;
+    color: white;
+    width: 640px;
+    margin: 0 auto;
+}
+
+.kep{
+    border: 1px solid black;
+}
+
+#masodikkep{
+    border: 1px solid black;
+}
+
+a{
+    float: left;
+}
+
+#balos{
+    text-align: left;
+}
+
+#elsotabla{
+    width: 640px;
+    margin: 0 auto;
+    background-image: url(./hatter.jpg);
+}
+
+#masodikbody{
+    background-color: white;
+}
+
+#balrakep{
+    float: left;
+}
